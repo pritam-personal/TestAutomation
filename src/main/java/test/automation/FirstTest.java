@@ -15,7 +15,7 @@ public class FirstTest {
 	
 	    WebDriver driver = new ChromeDriver();
 
-	    driver.get("http://google.com");
+	    driver.get("https://google.com/");
 	     
 	    Thread.sleep(2000);
 	    
