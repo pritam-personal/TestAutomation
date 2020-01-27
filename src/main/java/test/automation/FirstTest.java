@@ -16,6 +16,8 @@ public class FirstTest {
 	    WebDriver driver = new ChromeDriver();
 
 	    driver.get("https://google.com/");
+	    
+	    driver.manage().window().maximize();
 	     
 	    Thread.sleep(2000);
 	    
