@@ -20,7 +20,7 @@ public class FirstTest {
 	    driver.manage().window().maximize();
 	     
 	    Thread.sleep(2000);
-	    
+	    System.out.println("Hello world");
         driver.quit();
 	}
 	
