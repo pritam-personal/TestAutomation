@@ -25,13 +25,12 @@ public class FirstTest {
 		System.out.println("shruti");
 
 		System.out.println("sai");
-<<<<<<< HEAD
 		
-		System.out.println("test12");
-=======
+		System.out.println("test12345");
+
 
 		System.out.println("pritam");
->>>>>>> e5d0aed0e6285c95731c91c1fc6f8b64f90beab4
+
         driver.quit();
 	}
 	
